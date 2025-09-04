@@ -14,6 +14,8 @@
         <module>langchain4j-02-multimodeltogether</module>
         <module>langchain4j-03-springbootintegration</module>
         <module>langchain4j-04-lowhighapi</module>
+        <module>langchain4j-05-modelparameters</module>
+        <module>langchain4j-06-chatimage</module>
     </modules>
 
     <properties>
