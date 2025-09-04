@@ -12,6 +12,8 @@
     <modules>
         <module>langchain4j-01-helloworld</module>
         <module>langchain4j-02-multimodeltogether</module>
+        <module>langchain4j-03-springbootintegration</module>
+        <module>langchain4j-04-lowhighapi</module>
     </modules>
 
     <properties>
