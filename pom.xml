@@ -16,6 +16,8 @@
         <module>langchain4j-04-lowhighapi</module>
         <module>langchain4j-05-modelparameters</module>
         <module>langchain4j-06-chatimage</module>
+        <module>langchain4j-07-streamchatmodel</module>
+        <module>langchain4j-08-chatmemory</module>
     </modules>
 
     <properties>
