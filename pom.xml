@@ -21,6 +21,7 @@
         <module>langchain4j-09-chatprompt</module>
         <module>langchain4j-10-chatpersistence</module>
         <module>langchain4j-11-functioncalling</module>
+        <module>langchain4j-12-embedding</module>
     </modules>
 
     <properties>
