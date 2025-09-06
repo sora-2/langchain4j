@@ -18,6 +18,8 @@
         <module>langchain4j-06-chatimage</module>
         <module>langchain4j-07-streamchatmodel</module>
         <module>langchain4j-08-chatmemory</module>
+        <module>langchain4j-09-chatprompt</module>
+        <module>langchain4j-10-chatpersistence</module>
     </modules>
 
     <properties>
