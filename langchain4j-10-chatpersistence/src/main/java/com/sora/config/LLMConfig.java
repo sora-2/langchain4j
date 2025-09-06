@@ -21,7 +21,7 @@ public class LLMConfig
     public ChatModel chatModel()
     {
         return OpenAiChatModel.builder()
-                .apiKey(System.getenv("aliQwen-api"))
+                .apiKey(System.getenv("aliQwen-api-key"))
                 .modelName("qwen-plus")
                 .baseUrl("https://dashscope.aliyuncs.com/compatible-mode/v1")
                 .build();
