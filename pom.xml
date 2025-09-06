@@ -22,6 +22,7 @@
         <module>langchain4j-10-chatpersistence</module>
         <module>langchain4j-11-functioncalling</module>
         <module>langchain4j-12-embedding</module>
+        <module>langchain4j-13-RAG</module>
     </modules>
 
     <properties>
