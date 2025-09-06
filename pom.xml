@@ -23,6 +23,7 @@
         <module>langchain4j-11-functioncalling</module>
         <module>langchain4j-12-embedding</module>
         <module>langchain4j-13-RAG</module>
+        <module>langchain-14-MCP</module>
     </modules>
 
     <properties>
